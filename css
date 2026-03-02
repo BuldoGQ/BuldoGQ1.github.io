@@ -24,3 +24,24 @@ justify-content: space-between;
 body{
     background-color: aquamarine;
 }
+.galeria , img{
+    width: 220px;
+
+    
+
+}
+img:hover{
+    transform: scale(1,2);
+
+}
+body:hover{
+    background-color: green;
+}
+footer{
+    text-align: center;
+    color: aquamarine;
+    font-size: 30px;
+}
+h1{
+    color: cyan;
+}
